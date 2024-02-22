@@ -22,8 +22,3 @@ Clone the repository to your local machine.
 Open the Power BI file containing the dashboard.
 Interact with the dashboard using filters, slicers, and parameters to drill down into the data.
 Explore different visualizations to gain insights into online sales trends and patterns.
-# Future Enhancements
-Real-time Data Integration: Explore options for real-time data integration to provide up-to-date insights.
-Enhanced Data Security: Implement data security measures to protect sensitive information.
-Performance Optimization: Optimize dashboard performance for faster data loading and interaction.
-Advanced Analytics: Incorporate advanced analytical techniques such as predictive analytics and forecasting for deeper insights.
