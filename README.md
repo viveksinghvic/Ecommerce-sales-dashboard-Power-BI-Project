@@ -1,6 +1,6 @@
 # Power-BI-Ecommerce-sales-dashboard
 
-#Overview
+# Overview
 This project focused on developing an interactive dashboard using Power BI to track and analyze online sales data. Various advanced techniques were employed to enhance data visualization, manipulation, and user interactivity.
 
 #Key Features
