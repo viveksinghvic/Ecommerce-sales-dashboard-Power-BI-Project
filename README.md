@@ -1,9 +1,9 @@
 # Power-BI-Ecommerce-sales-dashboard
 
-Overview
+#Overview
 This project focused on developing an interactive dashboard using Power BI to track and analyze online sales data. Various advanced techniques were employed to enhance data visualization, manipulation, and user interactivity.
 
-Key Features
+#Key Features
 Interactive Dashboard: Built an intuitive dashboard interface allowing users to explore sales data dynamically.
 Advanced Data Analysis: Utilized complex parameters, filters, and slicers to drill down into the dataset for in-depth analysis.
 Data Integration: Established connections and joined new tables to integrate diverse datasets for comprehensive analysis.
@@ -15,8 +15,8 @@ GitHub: Utilized GitHub for version control and collaboration.
 Data Integration: Integrated data from various sources including Excel, databases, and online services.
 DAX (Data Analysis Expressions): Implemented DAX formulas for advanced calculations and data manipulation.
 Power Query: Utilized Power Query for data transformation and preparation.
-Usage
-To explore the interactive dashboard and analyze online sales data:
+#Usage
+#To explore the interactive dashboard and analyze online sales data:
 
 Clone the repository to your local machine.
 Open the Power BI file containing the dashboard.
